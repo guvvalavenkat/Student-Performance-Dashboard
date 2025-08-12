@@ -56,15 +56,15 @@ The dataset contains academic performance data of students from Portuguese schoo
 
 ---
 
+
 ## 📸 Dashboard Preview
 
-# Main Dashboard  
-<img width="1137" height="645" alt="image" src="https://github.com/user-attachments/assets/9d3b3146-f539-4e15-ae80-c94497165de1" />
+| Main Dashboard | Additional Analysis |
+| -------------- | ------------------- |
+| <img width="1152" height="651" alt="image" src="https://github.com/user-attachments/assets/00804ab5-0369-408b-8d96-40472be583d3" />
+ | <img width="1145" height="620" alt="image" src="https://github.com/user-attachments/assets/423a2da9-cbd1-4601-92f9-9e8b2e25413f" />
+ |
 
-
-
-### Additional Analysis  
-<img width="1140" height="627" alt="image" src="https://github.com/user-attachments/assets/430d2484-6ada-41e8-a4ac-eec56514f932" />
 
 ## 📈 Key Findings
 - Attendance is a major factor — fewer absences correlate with higher grades.
