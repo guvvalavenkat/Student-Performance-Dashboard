@@ -61,8 +61,8 @@ The dataset contains academic performance data of students from Portuguese schoo
 
 | Main Dashboard | Additional Analysis |
 | -------------- | ------------------- |
-| <img width="552" height="310" alt="image" src="https://github.com/user-attachments/assets/00804ab5-0369-408b-8d96-40472be583d3" />
- | <img width="552" height="310" alt="image" src="https://github.com/user-attachments/assets/423a2da9-cbd1-4601-92f9-9e8b2e25413f" />
+| <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/00804ab5-0369-408b-8d96-40472be583d3" />
+ | <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/423a2da9-cbd1-4601-92f9-9e8b2e25413f" />
  |
 
 
